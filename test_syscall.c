@@ -7,7 +7,7 @@
 
 int main(int argc, char *argv[]){
 	int ret = syscall(__NR_helloworld);
-	printf("%d\n", ret);
+	printf("%d\n", ret); //just printing return value of the system call
 
 	return 0;
 }

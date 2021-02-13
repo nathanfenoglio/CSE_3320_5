@@ -4,7 +4,7 @@ spocs.getpocket.com:HSTS	0	18671	1676302622637,1,0,2
 firefox.settings.services.mozilla.com:HSTS	0	18671	1644767992729,1,0,2
 services.addons.mozilla.org:HSTS	0	18671	1644767245859,1,0,2
 docs.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	18671	1628784875445,1,1,2
-incoming.telemetry.mozilla.org:HSTS	0	18671	1629000717422,1,0,2
+incoming.telemetry.mozilla.org:HSTS	0	18671	1629002275377,1,0,2
 aus5.mozilla.org:HSTS	0	18671	1644767245645,1,0,2
 git.io^partitionKey=%28http%2Cgit.io%29:HSTS	0	18671	1644766622355,1,1,2
 www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	0	18671	1644768872104,1,0,2
