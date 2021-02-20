@@ -1,0 +1,9 @@
+nathan/
+
+*.o
+
+a.out
+test_print_other
+test_print_self
+test_syscall
+
