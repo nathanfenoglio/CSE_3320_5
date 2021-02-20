@@ -14598,7 +14598,7 @@
     <id>nothing-to-say_extensions.gnome.wouter.bolsterl.ee</id>
     <name>Nothing to say</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Unmute the microphone only when you have something to say.</p><p></p><p>this gnome-shell extension always keeps your microphone muted, unless you actually have something to say.</p><p>- microphone icon in the top bar, only visible when recording is active - one-click mute/unmute using the icon - keyboard shortcut to mute/unmute, with push-to-talk - osd notifications for microphone events</p><p></p></description>
+    <description><p>Unmute the microphone only when you have something to say.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -21607,6 +21607,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1001_igBtSpz.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="2"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>

@@ -155,3 +155,38 @@ vim test_print_other.c
 sudo su -
 exi
 exit
+sudo su -
+exit
+sudo su -
+exit
+top
+exit
+sudo su -
+ls
+sudo su -
+exit
+sudo su -
+exit
+sudo su -
+exit
+cd /home/Messing/
+ls
+code .
+exit
+sudo su -
+exit
+sudo su -
+exit
+cd /home/
+ls
+gcc -o test_syscall test_syscall.c
+gcc test_syscall.c -o test_syscall
+gcc test_syscall.c
+sudo su -
+exit
+sudo su -
+exit
+sudo su -
+exit
+sudo su -
+exit

@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="firefox.desktop" open-window-count="1" score="31" last-seen="1613232925"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="3" score="3780" last-seen="1613232906"/>
-    <application id="org.gnome.gedit.desktop" open-window-count="0" score="1" last-seen="1612643568"/>
-    <application id="update-manager.desktop" open-window-count="0" score="1" last-seen="1613181132"/>
-    <application id="libreoffice-writer.desktop" open-window-count="2" score="4" last-seen="1613230414"/>
+    <application id="firefox.desktop" open-window-count="0" score="930" last-seen="1613330884"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="update-manager.desktop" open-window-count="0" score="2.5" last-seen="1613826043"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="4" last-seen="1613824940"/>
+    <application id="code_code.desktop" open-window-count="0" score="14880" last-seen="1613824932"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="20930" last-seen="1613826189"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="38" last-seen="1613826200"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="1" last-seen="1613652084"/>
   </context>
 </application-state>
